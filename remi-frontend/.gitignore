@@ -1,0 +1,4 @@
+/env
+__pycache__/
+wake_word_detector/__pycache__/
+/.vscode
